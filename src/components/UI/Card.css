@@ -1,0 +1,22 @@
+.card {
+	border-radius: 12px;
+	box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+	width: 50%;
+	min-width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1rem;
+	border: 3px solid turquoise;
+	padding: 10px;
+}
+
+.card button {
+	font: inherit;
+	cursor: pointer;
+	padding: 1rem 2rem;
+	border: 1px solid turquoise;
+	background-color: turquoise;
+	color: black;
+	border-radius: 12px;
+	margin-top: 1rem;
+}
